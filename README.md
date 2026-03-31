@@ -11,6 +11,6 @@ Experience with Unity 3D, Unreal. Creating backend business logic, manage server
 - 🌱 Constantly improving performance, structure, and code quality
 - ⚡ I value simple, practical, and scalable solutions
 
-###Projects:
+##Projects:
 
-@TODO
+- 🌱 Waitlistfox - a simle go app that save contacts to waitlist.
