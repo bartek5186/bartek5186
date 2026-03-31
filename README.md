@@ -11,6 +11,7 @@ After that I learn EcmaScript in ActionScript 3.0 - that moves me easily to Type
 In 2022 I leave my main project to learn how to code with LLM's. I also involve in new startups where i improve my basecode. I wish I could make Games and Startup easily in near future :).
 I love dogs - I have two. 
 
+- 🔭 Experimenting with LLM based engeenering.
 - 🔭 Building backend services and designing system architecture
 - 🔭 Now generating frontend, and play a lot with LLM's since 2022
 - 🛠️ 15y+ dev
