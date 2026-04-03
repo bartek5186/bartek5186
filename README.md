@@ -9,7 +9,7 @@ editing hex gamecode to obtain some lives and simple edit maps. I have used Quar
 My firs web commercial page was in early 2000 - for Veterinary. Before that I have learn how to code in Pajączek 2000 IDE :D. My firs webpage was created in Word Editor.
 After that I learn EcmaScript in ActionScript 3.0 - that moves me easily to TypeScript. I spent some time to have fun in GameDev.
 In 2022 I leave my main project to learn how to code with LLM's. I also involve in new startups where i improve my basecode. I wish I could make Games and Startup easily in near future :).
-I love dogs - I have two. 
+I love dogs - I have two. Also love Games - collecting old NES / Famiclone games.
 
 - 🔭 Experimenting with LLM based engeenering.
 - 🔭 Building backend services and designing system architecture
