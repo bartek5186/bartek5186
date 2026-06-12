@@ -1,22 +1,27 @@
 ## Hi there 👋
 
-I'm a fullstack developer and systems designer focused on building maintainable and well-structured applications. I love **Go**.
+I'm a full-stack developer and systems designer. I like building practical, maintainable and well-structured applications. I love **Go** and usually work with **Echo**, **GORM**, **PostgreSQL** and **PostGIS**.
 
-My usual stack includes **Echo**, **Gorm**, **PostgreSQL**, and **PostGIS**. But I also know a lot more - from bat files, via 3D games to backend development.
-Experience with Unity 3D, Unreal. Creating backend business logic, manage servers it's the way I live. Also have experience in managing dev team.
-In ther past I work with transportation search engines with routes optimalization, payments systems, etc. In my childchood I make simple games on retro PC under batch, 
-editing hex gamecode to obtain some lives and simple edit maps. I have used Quark Army Tool - Old 3D Editor to edit maps and levels in old games like Doom, Quake. 
-My firs web commercial page was in early 2000 - for Veterinary. Before that I have learn how to code in Pajączek 2000 IDE :D. My firs webpage was created in Word Editor.
-After that I learn EcmaScript in ActionScript 3.0 - that moves me easily to TypeScript. I spent some time to have fun in GameDev.
-In 2022 I leave my main project to learn how to code with LLM's. I also involve in new startups where i improve my basecode. I wish I could make Games and Startup easily in near future :).
-I love dogs - I have two. Also love Games - collecting old NES / Famiclone games.
+Backend is my strongest area: business logic, APIs, data flows, integrations, servers, deployments and system architecture. Over the years I have worked on transportation search engines, route optimization, payment systems, e-commerce integrations, internal tools and production infrastructure.
 
-- 🔭 Experimenting with LLM based engeenering.
-- 🔭 Building backend services and designing system architecture
-- 🔭 Now generating frontend, and play a lot with LLM's since 2022
-- 🛠️ 15y+ dev
-- 🌱 Constantly improving performance, structure, and code quality
-- ⚡ I value simple, practical, and scalable solutions
+I also have experience leading dev teams and turning rough business ideas into working systems. I like simple solutions that are easy to understand, easy to deploy and easy to maintain.
+
+My programming story started a long time ago. Batch scripts on retro PCs, simple games, hex-editing game files to get more lives, editing maps for Doom and Quake with QuArK, stuff like that. My first commercial website was built around 2000, and before modern web stacks I learned using tools like Pajączek 2000, Word, ActionScript 3.0 and later TypeScript.
+
+I also spent some time in GameDev with **Unity 3D** and **Unreal Engine**, mostly because I always liked games, tools, performance and creative problem-solving.
+
+Since 2022, I've been experimenting a lot with **LLM-assisted engineering**. I use AI to prototype faster, generate frontend, improve my basecode and build reusable systems for startups and side projects.
+
+Outside of code, I love dogs. Currently I have two. I also collect old Famiclone games.
+
+* 🔭 Experimenting with LLM-assisted engineering
+* 🧱 Building backend services and designing system architecture
+* 🚀 Creating startup and product prototypes from idea to working system
+* 🛠️ 15+ years of development experience
+* 🧩 Backend, integrations, automation, servers and e-commerce
+* 🎮 GameDev background with Unity, Unreal, retro tools and old-school modding
+* 🌱 Constantly improving performance, structure and code quality
+* ⚡ I value simple, practical and scalable solutions
 
 ### OpenSource Projects:
 
