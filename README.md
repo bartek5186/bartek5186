@@ -20,5 +20,14 @@ I love dogs - I have two. Also love Games - collecting old NES / Famiclone games
 
 ### OpenSource Projects:
 
-- 🌱 Waitlistfox - a simle go app that save contacts to waitlist.
+* 🚀 [Procyon](https://github.com/bartek5186/procyon) — a Go/Echo backend template with layered structure, GORM, MySQL/PostgreSQL support, observability, i18n, middleware, Kratos/Casbin RBAC, migrations, Docker, and deployment helpers.
+* 🧰 [procyon-cli](https://github.com/bartek5186/procyon-cli) — a CLI helper for initializing Procyon projects and generating modules with models, stores, services, controllers, migrations, routing, and default RBAC wiring.
+* 🦊 [waitlistFox](https://github.com/bartek5186/waitlistfox) — a simple Echo/GORM waitlist API with MySQL/PostgreSQL support, duplicate email protection, consent fields, campaign metadata, optional reCAPTCHA, Docker, and production deployment helpers.
+* 💾 [Backuper](https://github.com/bartek5186/Backuper) — a lightweight backup orchestrator for production servers that coordinates MySQL/MariaDB/PostgreSQL dumps and file backups through proven tools like `mysqldump`, `pg_dump`, and `restic`.
+* 🔄 [pcm2www](https://github.com/bartek5186/pcm2www) — an integrator between PC-Market 7 and WooCommerce that imports PCM XML exports and synchronizes stock, EAN, prices, availability, and WooCommerce cache through background workers.
+* 🔎 [Procyon Dig Engine](https://github.com/bartek5186/procyon-dig-engine) — a WooCommerce product search plugin powered by dedicated FULLTEXT and taxonomy index tables, REST API endpoints, facets, WP-CLI commands, and automatic product reindexing.
+* 🖼️ [Procyon Image Packer](https://github.com/bartek5186/procyon-image-packer) — a WordPress batch image optimizer that uses external tools to optimize JPEG/PNG files, generate WebP/AVIF sidecars, expose REST/WP-CLI job control, and optionally rewrite frontend image URLs.
+* ❤️ [Procyon Like Bag](https://github.com/bartek5186/procyon-like-bag) — an API-only WooCommerce favorites plugin supporting guest tokens, logged-in user bags, item toggling, counts, clearing, and guest-to-user merge flows.
+* 🖥️ [Simple Home Hero Slider](https://github.com/bartek5186/simple-home-hero-slider) — a small WordPress plugin for a homepage hero slider based on a custom `hero_slide` post type, frontend assets, image preloading, and admin ordering.
+* 🧪 [Terraforming Lab](https://github.com/bartek5186/terraforming-lab) — an experimental public lab repository; README/details pending.
 
